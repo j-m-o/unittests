@@ -1,0 +1,4 @@
+C:\Users\Jessica\source\repos\JessTestProject\JessTestProject\obj\Debug\netcoreapp2.2\JessTestProject.csprojAssemblyReference.cache
+C:\Users\Jessica\source\repos\JessTestProject\JessTestProject\obj\Debug\netcoreapp2.2\JessTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\JessTestProject\JessTestProject\obj\Debug\netcoreapp2.2\JessTestProject.AssemblyInfoInputs.cache
+C:\Users\Jessica\source\repos\JessTestProject\JessTestProject\obj\Debug\netcoreapp2.2\JessTestProject.AssemblyInfo.cs
