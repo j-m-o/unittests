@@ -1,2 +1,3 @@
-# unittests
- Playing around with unit tests
+# unit-test-example
+
+Simple C# unit testing example
